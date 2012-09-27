@@ -16,7 +16,9 @@
   "keywords": [
     "emberjs",
     "bootstrap",
-    "progressbars"
+    "progressbars",
+    "progress",
+    "ember"
   ],
   "author": "James A. Rosen",
   "license": "APLv2"
